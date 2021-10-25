@@ -1,0 +1,7 @@
+{
+  "name": "Onic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
