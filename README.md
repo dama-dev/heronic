@@ -10,7 +10,7 @@ Stack: heroku + ionic (as backend + frontend)
 
 ##
 
-## Onic, `onic` App
+## `onic` App
 
 Ionic app, via name `onic`
 
@@ -18,15 +18,15 @@ Ionic app, via name `onic`
 ### Working
 
 ```sh
-# Onic App
-cd Onic
+# onic app
+cd onic
 ionic serve --external --host=0.0.0.0 --port=5100
 ```
 
 ### Usefull commands
 
 ```sh
-ionic start
+ionic start # init ionic app
 ```
 
 ##
